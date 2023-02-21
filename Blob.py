@@ -4,10 +4,10 @@ from textblob import TextBlob
 
 # Fill the X's with the credentials obtained by
 # following the above mentioned procedure.
-consumer_key = "wnokBdU7T8LfzGujMzNwAB4MD"
-consumer_secret = "KBg3A6b74pMULd6ekFr4rpQa4tKvrgTsPtN6Nk4ArMX5smuOZp"
-access_key = "2393199921-aVemIxWAOOuiqTmYAlfMkwglfsGEorMFJsfJOOH"
-access_secret = "W3S0AOPPpELwPZWfMU5Bt6T0sbEfkAe0ScOZpY1Jbt1kh"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 # Driver code
 # Function to extract tweets
 # Write function to get tweets form twitter search api
