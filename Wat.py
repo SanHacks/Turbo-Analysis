@@ -4,7 +4,7 @@ from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 from ibm_watson.natural_language_understanding_v1 \
     import Features, EmotionOptions
 #API Key
-authenticator = IAMAuthenticator('ZNzVubIo5QrXuXSD9rp1FyRYC0Xx_5mNyDEi-kR9S-TX')
+authenticator = IAMAuthenticator('YOUR_API_KEY')
 natural_language_understanding = NaturalLanguageUnderstandingV1(
     version='2022-04-07',
     authenticator=authenticator
